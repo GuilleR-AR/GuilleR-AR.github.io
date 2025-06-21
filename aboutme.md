@@ -4,7 +4,7 @@ title: About me
 subtitle: Who am I
 ---
 
-# My name is Guillermo Rosello, I'm an argentinian 🇦🇷 devops engineer.
+My name is Guillermo Rosello, I'm an argentinian 🇦🇷 devops engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermojrosello)

@@ -6,6 +6,9 @@ subtitle: Who am I
 
 My name is Guillermo Rosello, I'm an argentinian 🇦🇷 devops engineer.
 
+## Background
+I worked almost 10 yrs as IT and 7 as OPS, from Platform Engineer to SRE even Sysadmin.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermojrosello)
 [![Email](https://img.shields.io/badge/Email-8A2BE2)](mailto:guillermo.rosello@proton.me)

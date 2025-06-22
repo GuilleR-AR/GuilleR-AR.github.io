@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Guille rosello site    
+title: Guille Rosello site    
 
 # Your name to show in the footer
-author: Guillermo Rosello
+author: Guille Rosello
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: RSS feed for Guille Rosello's website
 
 ###########################
 # --- General options --- #
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "guillerosello.com.ar"
+url-pretty: "guillerosello.net.ar"
 
 # Add the website title to the title of every page
 title-on-all-pages: true

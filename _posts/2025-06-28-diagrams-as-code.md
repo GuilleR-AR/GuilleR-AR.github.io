@@ -10,16 +10,16 @@ mathjax: true
 author: Guille R
 ---
 # Weapon of choice
-There are multiple tools that can be used to accomplish this, but the one I went that seemed simple enough, it's free and opensource is [Diagrams](https://diagrams.mingrammer.com/), which is a pip package so the code is written in Python. Even if you don't have too much experience in coding it's not hard to follow.
+There are multiple tools that can be used to be able to create diagrams using code but the one I went with, that seemed simple enough, it's [Diagrams](https://diagrams.mingrammer.com/).It's free, opensource and it is a pip package so the code is written in Python. Even if you don't have too much experience in coding it's not hard to follow.
 This doesn't mean it's the best one for you, it certainly has it's quirks, but it seemed the best for my use case.
 
 # Why bother?
 
 This might seem superflous and might be interpetered as overcomplicating things, but I do like to use the diagrams as code whenever possible, here is why:
-- It is easily versionable, and therefore I can keep updating it as needed
-- Also since they are in a repository, which is public If you want to check it out click [here](https://github.com/GuilleR-AR/diagram-as-code/tree/main) I can reference the images
+- It is easily versionable therefore I can keep updating it as needed
+- Also since they are in a repository, which is public (if you want to check it out click [here](https://github.com/GuilleR-AR/diagram-as-code/tree/main)), I can reference the images like so:
 !["Selfhosted services"](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/refs/heads/main/src/apps.png)
-- You can even use it to show the progress made between 2 separated versions for instance:
+- You can even use it to show the progress made between 2 separated versions, for instance:
     - [Old Version](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/356473f4cdaecfd0d238dafaa601e7d9e880fc8b/src/network.png):
         !["Old version"](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/356473f4cdaecfd0d238dafaa601e7d9e880fc8b/src/network.png)
     - [Current Version](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/refs/heads/main/src/network.png):

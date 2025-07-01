@@ -10,7 +10,7 @@ mathjax: true
 author: Guille R
 ---
 # Weapon of choice
-There are multiple tools that can be used to be able to create diagrams using code but the one I went with, that seemed simple enough, it's [Diagrams](https://diagrams.mingrammer.com/).It's free, opensource and it is a pip package so the code is written in Python. Even if you don't have too much experience in coding it's not hard to follow.
+There are multiple tools that can be used to create diagrams using code but the one I went with, that seemed simple enough, it's [Diagrams](https://diagrams.mingrammer.com/).Free, opensource, it is written in Python and it can be installed as a pip package. Even if you don't have too much experience in coding it's not hard to follow.
 This doesn't mean it's the best one for you, it certainly has it's quirks, but it seemed the best for my use case.
 
 # Why bother?

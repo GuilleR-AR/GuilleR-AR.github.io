@@ -54,5 +54,5 @@ That's it right? RIGHT? No, unfortunately I ran into another problem. We started
 - What was the point of all this rant?
     - Basically share what I learned, technically none of the issues I ran into are terragrunt's fault, the feature that made me decide to go with it initially (apply-all command) didn't work out for me .Even though I still don't consider terragrunt to be a bad tool.
 - What did I learned from all this?
-    1) Sometimes you don't really know a tool until you are deep into the implementation on production.
-    2) Even though the feature you wanted didn't worked out as expected learned to appreciate the other ones.   
+    - Sometimes you don't really know a tool until you are deep into the implementation on production.
+    - Even though the feature you wanted didn't worked out as expected learned to appreciate the other ones.   

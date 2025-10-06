@@ -13,7 +13,7 @@ author: Guille R
 
 # What is Nerdearla?
 
-Quoting their site [Nerdearla](https://nerdear.la/en/):
+Quoting the site [Nerdearla](https://nerdear.la/en/):
 
 > Nerdearla is the largest free science and technology event in Hispanic America. From 2014 in Argentina, 2023 in Chile, 2024 in Mexico, and starting November 2025 in Spain. We encourage knowledge exchange, creating a meeting space with high-quality content dedicated to IT professionals and science nerds.
 

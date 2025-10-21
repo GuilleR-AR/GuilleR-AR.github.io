@@ -19,14 +19,14 @@ I already knew Terraform was the right tool for provisioning, and that Proxmox c
 # Why Talos?
 There are multiple ways to deploy Kubernetes on-prem (k3s, kubeadm, RKE, kops, Talos, etc.). I chose Talos OS because it is simple, secure, and requires minimal maintenance, which lets me focus on Kubernetes itself. Talos uses an API for node management (no SSH) and provides its own CLI, talosctl.
 
-Part of my inspiration was this post: https://olav.ninja/talos-cluster-on-proxmox-with-terraform. I followed it and it worked well, but I saw opportunities to simplify and iterate.
+Part of my inspiration was [this post](https://olav.ninja/talos-cluster-on-proxmox-with-terraform). I followed it and it worked well, but I saw opportunities to simplify and iterate.
 
 # The result
 ## Module repository
-URL: https://github.com/GuilleR-AR/terraform-proxmox-talos-cluster
+URL: [https://github.com/GuilleR-AR/terraform-proxmox-talos-cluster](https://github.com/GuilleR-AR/terraform-proxmox-talos-cluster)
 
 ## Terraform Registry
-URL: https://registry.terraform.io/modules/GuilleR-AR/talos-cluster/proxmox/latest
+URL: [https://registry.terraform.io/modules/GuilleR-AR/talos-cluster/proxmox/latest](https://registry.terraform.io/modules/GuilleR-AR/talos-cluster/proxmox/latest)
 
 # Conclusion
 The module still needs work, but it already lets me spin up Kubernetes clusters easily and iterate on improvements.

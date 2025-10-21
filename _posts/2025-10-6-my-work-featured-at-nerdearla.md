@@ -2,8 +2,6 @@
 layout: post
 title: My Work Featured at Nerdearla
 subtitle: My manager was a speaker at an Argentinian event and discussed some of the work my team did
-gh-repo: GuilleR-AR/diagram-as-code
-gh-badge: [star, fork, follow]
 tags: [opinion]
 comments: true
 mathjax: true

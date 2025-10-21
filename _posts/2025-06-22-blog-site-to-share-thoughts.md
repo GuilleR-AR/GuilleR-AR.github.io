@@ -2,8 +2,6 @@
 layout: post
 title: Blog site to share thoughts
 subtitle: Intro
-#gh-repo: daattali/beautiful-jekyll
-#gh-badge: [star, fork, follow]
 tags: [random]
 comments: true
 mathjax: true

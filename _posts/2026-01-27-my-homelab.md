@@ -13,7 +13,7 @@ When I started working in IT there was a certain anxiety about not knowing enoug
 
 # Networking
 ## MikroTik
-Initially I wanted to learn about MikroTik since in one of my first IT jobs they were the backbone of our networking. If you ever worked with RouterOS you know it doesn't hold your hand, but it gives you a lot of freedom. In spite of the steep learning curve, it was totally worth it — not only did it force me to learn networking fundamentals, but even if you're spending $ or $$$$ on their gear the feature set is the same.
+Initially I wanted to learn about MikroTik since in one of my first IT jobs they were the backbone of our networking. If you ever worked with RouterOS you know it doesn't hold your hand, but it gives you a lot of freedom. In spite of the steep learning curve, it was totally worth it — not only did it force me to learn networking fundamentals, but even if you're spending 💲 or 💲💲💲💲 on their gear the feature set is the same.
 
 The model I have is [RB750Gr3](https://mikrotik.com/product/RB750Gr3). It has worked well and enabled me to do multiple neat things, like sending Telegram notifications if a server stops responding to ping, and setting up automatic backups and upgrades.
 
@@ -23,7 +23,7 @@ For APs I'm using a [U6+](https://techspecs.ui.com/unifi/wifi/u6-plus), chosen m
 # Hypervisor and Docker (Compute)
 After some time we needed to add a UniFi Controller for some APs, and to save resources I wanted to run it in a VM. I discovered deploying with Docker was practical and easy, which opened a new world. I had an old machine for this, but since it wasn't very powerful and had only one CPU, I looked for a hypervisor. At work we used Hyper‑V on Windows Server or ESXi. Those options weren't ideal for me (Windows requires a license, and ESXi's free option felt uncertain), so I turned to open source and tried XCP‑ng for a while. It lacked a web interface and felt heavy to install, so I moved to my second pick, Proxmox, and have been running it ever since. Proxmox gave me everything I needed, and I found Terraform providers (some alpha at the time) that made it easy to deploy VMs from code.
 
-For provisioning I use templates, Ansible scripts and Terraform; see my Talos Terraform module for Kubernetes deployment: [2025-10-21-created-my-own-tf-module-for-k8s-deployment.md](2025-10-21-created-my-own-tf-module-for-k8s-deployment.md).
+For provisioning I use templates, Ansible scripts and Terraform; see my Talos Terraform module for Kubernetes deployment: [2025-10-21-created-my-own-tf-module-for-k8s-deployment.md](../2025-10-21-created-my-own-tf-module-for-k8s-deployment.md).
 
 On the hardware side, I started with an Intel Core i5‑2500, 24 GB of RAM, a 500 GB disk and a 120 GB SSD boot disk, plus three 1 TB disks. My current build is an Intel Core i5‑8600K with 32 GB of RAM; I added three additional 4 TB disks and a 2.5 Gb Ethernet card. As a secondary node I'm running an old laptop also with Proxmox, set up in a cluster with the main node, which has allowed me to migrate essential services between nodes.
 

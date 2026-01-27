@@ -28,4 +28,4 @@ You can watch the full talk below. It is in Spanish, but you can use the subtitl
 ## TLDW
 
 If you want the short version, the talk was about the challenges we faced with a disorganized infrastructure and how we addressed them. This process required a shift in mindset among our internal customers, along with incremental improvements to our tooling. We also focused on simplifying and standardizing our processes.  
-I discussed some of these challenges in my other post, [When to use Terragrunt](../2025-08-12-when-to-use-terragrunt).
+I discussed some of these challenges in my other post, [When to use Terragrunt](../_posts/2025-08-12-when-to-use-terragrunt).

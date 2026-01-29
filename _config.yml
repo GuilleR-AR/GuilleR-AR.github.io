@@ -139,14 +139,14 @@ navbar-var-length: false
 page-col: "#181A1B"
 text-col: "#C0BAB2"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#00ff13"
 navbar-col: "#242728"
 navbar-text-col: "#C0BAB2"
 navbar-border-col: "#DDDDDD"
 footer-col: "#242728"
 footer-text-col: "#777777"
 footer-link-col: "#C0BAB2"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#00ff13"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -156,7 +156,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+#mobile-theme-col: "#00ff13"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:

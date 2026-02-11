@@ -13,6 +13,7 @@ I worked almost 10 yrs as IT and 7 as OPS, from Platform Engineer to SRE even Sy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermojrosello)
 [![Email](https://img.shields.io/badge/Email-8A2BE2)](mailto:guillermo.rosello@proton.me)
 
+
 ## 💻 Tech Stack:
 
 ### Cloud
@@ -43,3 +44,11 @@ I worked almost 10 yrs as IT and 7 as OPS, from Platform Engineer to SRE even Sy
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+
+## Certs
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ef37a44-9afe-41ea-88fd-54394ec381f8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30dda440-cacc-4ae0-ba6c-a6733ae9f9e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d36c3db3-83c6-4415-8e20-314e41248d75" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="514d703c-e553-4913-a08c-cb5dcfbfc592" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2cb97327-4a09-4cf5-b17d-97c9a41470bd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

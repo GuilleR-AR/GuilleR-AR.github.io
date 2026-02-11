@@ -46,6 +46,7 @@ I worked almost 10 yrs as IT and 7 as OPS, from Platform Engineer to SRE even Sy
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 ## Certs
+![My credly](https://www.credly.com/users/guillermo-rosello.69fc9ef9)
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2ef37a44-9afe-41ea-88fd-54394ec381f8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="30dda440-cacc-4ae0-ba6c-a6733ae9f9e5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

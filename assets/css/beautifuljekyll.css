@@ -960,21 +960,25 @@ pre {
 .box-note {
   background-color: #eee;
   border-left-color: #2980b9;
+  color: #000;
 }
 
 .box-warning {
   background-color: #fdf5d4;
   border-left-color: #f1c40f;
+  color: #000;
 }
 
 .box-error {
   background-color: #f4dddb;
   border-left-color: #c0392b;
+  color: #000;
 }
 
 .box-success {
   background-color: #98FB98;
   border-left-color: #3CB371;
+  color: #000;
 }
 
 /* --- Misc blog post styles --- */

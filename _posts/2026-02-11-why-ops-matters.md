@@ -7,10 +7,9 @@ comments: true
 mathjax: true
 author: Guille R
 ---
-
-| ⚠️ DISCLAIMER                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| My intent with writing this is to help breaking some preconceptions of the role itself, it is not looking to rant against some role in particular and looks to shed some light on it to start making some much needed change |
+{: .box-warning}
+**⚠️ DISCLAIMER:**
+My intent with writing this is to help breaking some preconceptions of the role itself, it is not looking to rant against some role in particular and looks to shed some light on it to start making some much needed change
 
 
 # Intro

@@ -2,7 +2,8 @@
 layout: post
 title: OPS Role in the Company
 subtitle: What we bring to the table
-tags: [opinion]comments: true
+tags: [opinion]
+comments: true
 mathjax: true
 author: Guille R
 ---

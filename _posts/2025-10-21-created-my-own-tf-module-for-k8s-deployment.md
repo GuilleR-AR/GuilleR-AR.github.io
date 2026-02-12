@@ -4,7 +4,7 @@ title: Created my own tf-module for k8s deployment
 subtitle: From 0 to k8s on proxmox with talos and terraform 
 gh-repo: GuilleR-AR/terraform-proxmox-talos-cluster
 gh-badge: [star, fork, follow]
-tags: [opinion]
+tags: [terraform, proxmox, homelab]
 comments: true
 mathjax: true
 author: Guille R

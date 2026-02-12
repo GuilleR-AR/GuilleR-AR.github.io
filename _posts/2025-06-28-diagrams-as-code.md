@@ -4,7 +4,7 @@ title: Diagrams as Code
 subtitle: Create Diagrams only with your keyboard
 gh-repo: GuilleR-AR/diagram-as-code
 gh-badge: [star, fork, follow]
-tags: [tools]
+tags: [tools, python]
 comments: true
 mathjax: true
 author: Guille R

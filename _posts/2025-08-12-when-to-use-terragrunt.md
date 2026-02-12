@@ -2,7 +2,7 @@
 layout: post
 title: When to use Terragrunt?
 subtitle: Still trying to figure it out
-tags: [opinion]
+tags: [opinion, terraform, terragrunt]
 comments: true
 mathjax: true
 author: Guille R

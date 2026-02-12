@@ -2,7 +2,7 @@
 layout: post
 title: My Work Featured at Nerdearla
 subtitle: My manager was a speaker at an Argentinian event and discussed some of the work my team did
-tags: [opinion]
+tags: [opinion, terraform, terragrunt]
 comments: true
 mathjax: true
 youtubeId: UTJ5eJdBPYM

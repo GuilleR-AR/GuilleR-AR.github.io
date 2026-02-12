@@ -71,14 +71,14 @@ layout: page
       </div>
       {% endif %}
 
-      <div class="post-entry">
+      <!--div class="post-entry">
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
           <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
-      </div>
+      </div-->
       {% endunless %}
 
       {% if site.feed_show_tags != false and post.tags.size > 0 %}

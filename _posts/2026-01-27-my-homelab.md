@@ -11,7 +11,20 @@ author: Guille R
 # Intro
 When I started working in IT there was a certain anxiety about not knowing enough and wanting to perform better in my day-to-day work. That's when I decided to put together a server with some spare parts and invest in some networking gear.
 
+<details markdown="1">
+<summary>Homelab Diagram</summary>
+!["Selfhosted services"](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/refs/heads/main/src/homelab.png)
+</details>
+
+
+
 # Networking
+
+<details markdown="1">
+<summary>Network Diagram</summary>
+!["Selfhosted services"](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/refs/heads/main/src/network.png)
+</details>
+
 ## MikroTik
 Initially I wanted to learn about MikroTik since in one of my first IT jobs they were the backbone of our networking. If you ever worked with RouterOS you know it doesn't hold your hand, but it gives you a lot of freedom. In spite of the steep learning curve, it was totally worth it — not only did it force me to learn networking fundamentals, but even if you're spending 💲 or 💲💲💲💲 on their gear the feature set is the same.
 
@@ -28,10 +41,17 @@ For provisioning I use templates, Ansible scripts and Terraform; see my Talos Te
 On the hardware side, I started with an Intel Core i5‑2500, 24 GB of RAM, a 500 GB disk and a 120 GB SSD boot disk, plus three 1 TB disks. My current build is an Intel Core i5‑8600K with 32 GB of RAM; I added three additional 4 TB disks and a 2.5 Gb Ethernet card. As a secondary node I'm running an old laptop also with Proxmox, set up in a cluster with the main node, which has allowed me to migrate essential services between nodes.
 
 # What I'm currently running on it
+
+<details markdown="1">
+<summary>Self Hosted Services Diagram</summary>
+!["Selfhosted services"](https://raw.githubusercontent.com/GuilleR-AR/diagram-as-code/refs/heads/main/src/apps.png)
+</details>
+
 ## TrueNAS
 First I needed a way to manage disks, so I passed through the three disks to a VM and set up the share. I initially used TrueNAS Core and later moved to TrueNAS Scale. Mostly I use it for ZFS pools and I've experimented with the Docker apps.
 
 ## Containers
+
 ### Pi‑hole
 I run two instances of Pi‑hole as my DNS servers to provide ad blocking and local DNS for other services.
 
@@ -49,3 +69,4 @@ Self‑hosting the UniFi Controller to configure and monitor my access points.
 
 ### Uptime Kuma
 Monitors the other services and sends Telegram notifications if they go down.
+
